@@ -10,7 +10,7 @@
             int numero = int.Parse(Console.ReadLine());
             Console.WriteLine("Nome do titular da conta: ");
             string titular = Console.ReadLine();
-            Console.WriteLine("Deseja fazer um depósito inicial?");
+           
             Console.WriteLine("Diogo Coelho da Silva insere esta linha de código");
             char resp = char.Parse(Console.ReadLine());
             if (resp == 's' || resp == 'S')
