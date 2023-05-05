@@ -29,6 +29,7 @@ namespace Contabancaria
         {
             Saldo = saldo;
         } 
+        public char Genero { get; set; }
 
         // Secção de Métodos
 
